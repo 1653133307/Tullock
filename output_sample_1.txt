@@ -1,0 +1,24 @@
+Processing file: input_sample_1.txt
+Solution A_star: 48.483610510451456
+Eps = 0.37554889574071426
+Player 1: Share = 0, Effort = 0.0
+Player 2: Share = 0, Effort = 0.0
+Player 3: Share = 0.37554945044896315, Effort = 3.6433914051895924
+Player 4: Share = 0.01746571560159965, Effort = 0.12088256477962925
+Player 5: Share = 0, Effort = 0.0
+Solution A_star: 48.531725908816796
+Eps = 0.3745667585871695
+Player 1: Share = 0, Effort = 0.0
+Player 2: Share = 0, Effort = 0.0
+Player 3: Share = 0.37456731384591385, Effort = 3.6395785672212484
+Player 4: Share = 0.017409573206863534, Effort = 0.12050088079529594
+Player 5: Share = 0, Effort = 0.0
+Solution A_star: 48.57988905716476
+Eps = 0.37357697009616025
+Player 1: Share = 0, Effort = 0.0
+Player 2: Share = 0, Effort = 0.0
+Player 3: Share = 0.37357752590594645, Effort = 3.635705700483147
+Player 4: Share = 0.01735360386017907, Effort = 0.12012032907699673
+Player 5: Share = 0, Effort = 0.0
+
+

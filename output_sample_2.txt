@@ -1,0 +1,345 @@
+Processing file: input_sample_2.txt
+
+Solution A_star: 38.11622002524409
+Player 1: Share = 0.48481778763523775, Effort = 4.5509361049623624
+Player 2: Share = 0, Effort = 0.0
+Player 3: Share = 0, Effort = 0.0
+Player 4: Share = 0.5161210279405148, Effort = 4.633613069256621
+Player 5: Share = 0, Effort = 0.0
+Player 6: Share = 0, Effort = 0.0
+Player 7: Share = 0, Effort = 0.0
+Player 8: Share = 0, Effort = 0.0
+Player 9: Share = 0, Effort = 0.0
+Player 10: Share = 0, Effort = 0.0
+Solution A_star: 38.147412520588745
+Player 1: Share = 0.48437296249027006, Effort = 4.550686558752994
+Player 2: Share = 0, Effort = 0.0
+Player 3: Share = 0, Effort = 0.0
+Player 4: Share = 0.5157449120299781, Effort = 4.633835383264187
+Player 5: Share = 0, Effort = 0.0
+Player 6: Share = 0, Effort = 0.0
+Player 7: Share = 0, Effort = 0.0
+Player 8: Share = 0, Effort = 0.0
+Player 9: Share = 0, Effort = 0.0
+Player 10: Share = 0, Effort = 0.0
+Solution A_star: 38.178630542382905
+Player 1: Share = 0.48392701909360153, Effort = 4.550429148994785
+Player 2: Share = 0, Effort = 0.0
+Player 3: Share = 0, Effort = 0.0
+Player 4: Share = 0.5153680704884807, Effort = 4.634052862980974
+Player 5: Share = 0, Effort = 0.0
+Player 6: Share = 0, Effort = 0.0
+Player 7: Share = 0, Effort = 0.0
+Player 8: Share = 0, Effort = 0.0
+Player 9: Share = 0, Effort = 0.0
+Player 10: Share = 0, Effort = 0.0
+Solution A_star: 38.178630542382905
+Player 1: Share = 0.48392701909360153, Effort = 4.550429148994785
+Player 2: Share = 0, Effort = 0.0
+Player 3: Share = 0, Effort = 0.0
+Player 4: Share = 0, Effort = 0.0
+Player 5: Share = 0, Effort = 0.0
+Player 6: Share = 0, Effort = 0.0
+Player 7: Share = 0.5166328326712044, Effort = 3.986715213373582
+Player 8: Share = 0, Effort = 0.0
+Player 9: Share = 0, Effort = 0.0
+Player 10: Share = 0, Effort = 0.0
+Solution A_star: 38.2098741115162
+Player 1: Share = 0.4834799495257735, Effort = 4.550163816276723
+Player 2: Share = 0, Effort = 0.0
+Player 3: Share = 0, Effort = 0.0
+Player 4: Share = 0, Effort = 0.0
+Player 5: Share = 0, Effort = 0.0
+Player 6: Share = 0, Effort = 0.0
+Player 7: Share = 0.5162517443023114, Effort = 3.9869152634849927
+Player 8: Share = 0, Effort = 0.0
+Player 9: Share = 0, Effort = 0.0
+Player 10: Share = 0, Effort = 0.0
+Solution A_star: 39.38403843073793
+Player 1: Share = 0.4660639210283736, Effort = 4.534158582950368
+Player 2: Share = 0, Effort = 0.0
+Player 3: Share = 0, Effort = 0.0
+Player 4: Share = 0, Effort = 0.0
+Player 5: Share = 0, Effort = 0.0
+Player 6: Share = 0, Effort = 0.0
+Player 7: Share = 0, Effort = 0.0
+Player 8: Share = 0.5347036313267044, Effort = 4.79613900133276
+Player 9: Share = 0, Effort = 0.0
+Player 10: Share = 0, Effort = 0.0
+Solution A_star: 39.4162684481581
+Player 1: Share = 0.4655670196795228, Effort = 4.533539697719008
+Player 2: Share = 0, Effort = 0.0
+Player 3: Share = 0, Effort = 0.0
+Player 4: Share = 0, Effort = 0.0
+Player 5: Share = 0, Effort = 0.0
+Player 6: Share = 0, Effort = 0.0
+Player 7: Share = 0, Effort = 0.0
+Player 8: Share = 0.5343636426870716, Effort = 4.796591756902291
+Player 9: Share = 0, Effort = 0.0
+Player 10: Share = 0, Effort = 0.0
+Solution A_star: 39.448524841086325
+Player 1: Share = 0.46506858441954896, Effort = 4.532909857648136
+Player 2: Share = 0, Effort = 0.0
+Player 3: Share = 0, Effort = 0.0
+Player 4: Share = 0, Effort = 0.0
+Player 5: Share = 0, Effort = 0.0
+Player 6: Share = 0, Effort = 0.0
+Player 7: Share = 0, Effort = 0.0
+Player 8: Share = 0.5340230687790359, Effort = 4.797040820649273
+Player 9: Share = 0, Effort = 0.0
+Player 10: Share = 0, Effort = 0.0
+Solution A_star: 39.448524841086325
+Player 1: Share = 0, Effort = 0.0
+Player 2: Share = 0, Effort = 0.0
+Player 3: Share = 0, Effort = 0.0
+Player 4: Share = 0.49965260172465475, Effort = 4.638431836743983
+Player 5: Share = 0, Effort = 0.0
+Player 6: Share = 0, Effort = 0.0
+Player 7: Share = 0.5008837838985373, Effort = 3.9911187063397304
+Player 8: Share = 0, Effort = 0.0
+Player 9: Share = 0, Effort = 0.0
+Player 10: Share = 0, Effort = 0.0
+Solution A_star: 39.48080763110706
+Player 1: Share = 0, Effort = 0.0
+Player 2: Share = 0, Effort = 0.0
+Player 3: Share = 0, Effort = 0.0
+Player 4: Share = 0.49924236978882297, Effort = 4.638423451887996
+Player 5: Share = 0, Effort = 0.0
+Player 6: Share = 0, Effort = 0.0
+Player 7: Share = 0.5004759888569256, Effort = 3.9911275437902503
+Player 8: Share = 0, Effort = 0.0
+Player 9: Share = 0, Effort = 0.0
+Player 10: Share = 0, Effort = 0.0
+Solution A_star: 40.82739870604051
+Player 1: Share = 0, Effort = 0.0
+Player 2: Share = 0, Effort = 0.0
+Player 3: Share = 0, Effort = 0.0
+Player 4: Share = 0.48156117955519767, Effort = 4.632128538837206
+Player 5: Share = 0, Effort = 0.0
+Player 6: Share = 0, Effort = 0.0
+Player 7: Share = 0, Effort = 0.0
+Player 8: Share = 0.519151184215846, Effort = 4.812276302328304
+Player 9: Share = 0, Effort = 0.0
+Player 10: Share = 0, Effort = 0.0
+Solution A_star: 40.86080990062458
+Player 1: Share = 0, Effort = 0.0
+Player 2: Share = 0, Effort = 0.0
+Player 3: Share = 0, Effort = 0.0
+Player 4: Share = 0.4811067709103075, Effort = 4.631813869461889
+Player 5: Share = 0, Effort = 0.0
+Player 6: Share = 0, Effort = 0.0
+Player 7: Share = 0, Effort = 0.0
+Player 8: Share = 0.5187874659034397, Effort = 4.812568806235185
+Player 9: Share = 0, Effort = 0.0
+Player 10: Share = 0, Effort = 0.0
+Solution A_star: 40.894248437335726
+Player 1: Share = 0, Effort = 0.0
+Player 2: Share = 0, Effort = 0.0
+Player 3: Share = 0, Effort = 0.0
+Player 4: Share = 0, Effort = 0.0
+Player 5: Share = 0, Effort = 0.0
+Player 6: Share = 0, Effort = 0.0
+Player 7: Share = 0.482201400879802, Effort = 3.9860732664335274
+Player 8: Share = 0.5184167883700879, Effort = 4.812826586361599
+Player 9: Share = 0, Effort = 0.0
+Player 10: Share = 0, Effort = 0.0
+Solution A_star: 40.894248437335726
+Player 1: Share = 0, Effort = 0.0
+Player 2: Share = 0, Effort = 0.0
+Player 3: Share = 0, Effort = 0.0
+Player 4: Share = 0.4806511428892479, Effort = 4.63149066175526
+Player 5: Share = 0, Effort = 0.0
+Player 6: Share = 0, Effort = 0.0
+Player 7: Share = 0, Effort = 0.0
+Player 8: Share = 0.5184167883700879, Effort = 4.812826586361599
+Player 9: Share = 0, Effort = 0.0
+Player 10: Share = 0, Effort = 0.0
+Solution A_star: 40.927714338549436
+Player 1: Share = 0, Effort = 0.0
+Player 2: Share = 0, Effort = 0.0
+Player 3: Share = 0, Effort = 0.0
+Player 4: Share = 0, Effort = 0.0
+Player 5: Share = 0, Effort = 0.0
+Player 6: Share = 0, Effort = 0.0
+Player 7: Share = 0.48175786796950887, Effort = 3.9858180633524047
+Player 8: Share = 0.5180484222517768, Effort = 4.813094243782758
+Player 9: Share = 0, Effort = 0.0
+Player 10: Share = 0, Effort = 0.0
+Solution A_star: 42.11643573440236
+Player 1: Share = 0, Effort = 0.0
+Player 2: Share = 0, Effort = 0.0
+Player 3: Share = 0, Effort = 0.0
+Player 4: Share = 0.4633491608776488, Effort = 4.613522111382566
+Player 5: Share = 0.5373591581156001, Effort = 4.289406705884431
+Player 6: Share = 0, Effort = 0.0
+Player 7: Share = 0, Effort = 0.0
+Player 8: Share = 0, Effort = 0.0
+Player 9: Share = 0, Effort = 0.0
+Player 10: Share = 0, Effort = 0.0
+Solution A_star: 42.15090181537022
+Player 1: Share = 0, Effort = 0.0
+Player 2: Share = 0, Effort = 0.0
+Player 3: Share = 0, Effort = 0.0
+Player 4: Share = 0.46283998336847987, Effort = 4.612822211312482
+Player 5: Share = 0.5370151211506755, Effort = 4.289848190240142
+Player 6: Share = 0, Effort = 0.0
+Player 7: Share = 0, Effort = 0.0
+Player 8: Share = 0, Effort = 0.0
+Player 9: Share = 0, Effort = 0.0
+Player 10: Share = 0, Effort = 0.0
+Solution A_star: 43.874748181927735
+Player 1: Share = 0, Effort = 0.0
+Player 2: Share = 0, Effort = 0.0
+Player 3: Share = 0, Effort = 0.0
+Player 4: Share = 0, Effort = 0.0
+Player 5: Share = 0.5194691135058993, Effort = 4.30694804762896
+Player 6: Share = 0, Effort = 0.0
+Player 7: Share = 0.4400710351741756, Effort = 3.9337954181543764
+Player 8: Share = 0, Effort = 0.0
+Player 9: Share = 0, Effort = 0.0
+Player 10: Share = 0, Effort = 0.0
+Solution A_star: 43.91065318188593
+Player 1: Share = 0, Effort = 0.0
+Player 2: Share = 0, Effort = 0.0
+Player 3: Share = 0, Effort = 0.0
+Player 4: Share = 0, Effort = 0.0
+Player 5: Share = 0.5190959795060777, Effort = 4.307196329739045
+Player 6: Share = 0, Effort = 0.0
+Player 7: Share = 0.43952335325931347, Effort = 3.93274268512456
+Player 8: Share = 0, Effort = 0.0
+Player 9: Share = 0, Effort = 0.0
+Player 10: Share = 0, Effort = 0.0
+Solution A_star: 44.41641935748389
+Player 1: Share = 0, Effort = 0.0
+Player 2: Share = 0, Effort = 0.0
+Player 3: Share = 0, Effort = 0.0
+Player 4: Share = 0, Effort = 0.0
+Player 5: Share = 0, Effort = 0.0
+Player 6: Share = 0, Effort = 0.0
+Player 7: Share = 0.4316758315275236, Effort = 3.9166067271481224
+Player 8: Share = 0, Effort = 0.0
+Player 9: Share = 0, Effort = 0.0
+Player 10: Share = 0.569226212621753, Effort = 4.317223228977194
+Solution A_star: 44.45276763528051
+Player 1: Share = 0, Effort = 0.0
+Player 2: Share = 0, Effort = 0.0
+Player 3: Share = 0, Effort = 0.0
+Player 4: Share = 0, Effort = 0.0
+Player 5: Share = 0, Effort = 0.0
+Player 6: Share = 0, Effort = 0.0
+Player 7: Share = 0.4311017942483648, Effort = 3.915349223260177
+Player 8: Share = 0, Effort = 0.0
+Player 9: Share = 0, Effort = 0.0
+Player 10: Share = 0.5689286602018997, Effort = 4.31794701909275
+Solution A_star: 44.48914565877293
+Player 1: Share = 0, Effort = 0.0
+Player 2: Share = 0, Effort = 0.0
+Player 3: Share = 0, Effort = 0.0
+Player 4: Share = 0, Effort = 0.0
+Player 5: Share = 0, Effort = 0.0
+Player 6: Share = 0, Effort = 0.0
+Player 7: Share = 0.43052586488305894, Effort = 3.9140770011320187
+Player 8: Share = 0, Effort = 0.0
+Player 9: Share = 0, Effort = 0.0
+Player 10: Share = 0.568630725378848, Effort = 4.318668610031828
+Solution A_star: 45.038402095038975
+Player 1: Share = 0, Effort = 0.0
+Player 2: Share = 0, Effort = 0.0
+Player 3: Share = 0, Effort = 0.0
+Player 4: Share = 0, Effort = 0.0
+Player 5: Share = 0, Effort = 0.0
+Player 6: Share = 0.5505073319761283, Effort = 4.693360191669254
+Player 7: Share = 0.4216464727306385, Effort = 3.893122147297112
+Player 8: Share = 0, Effort = 0.0
+Player 9: Share = 0, Effort = 0.0
+Player 10: Share = 0, Effort = 0.0
+Solution A_star: 45.075259373823435
+Player 1: Share = 0, Effort = 0.0
+Player 2: Share = 0, Effort = 0.0
+Player 3: Share = 0, Effort = 0.0
+Player 4: Share = 0, Effort = 0.0
+Player 5: Share = 0, Effort = 0.0
+Player 6: Share = 0.5501913880813593, Effort = 4.693963853768802
+Player 7: Share = 0.42103751463146055, Effort = 3.891592795432665
+Player 8: Share = 0, Effort = 0.0
+Player 9: Share = 0, Effort = 0.0
+Player 10: Share = 0, Effort = 0.0
+Solution A_star: 47.888089796089744
+Player 1: Share = 0, Effort = 0.0
+Player 2: Share = 0, Effort = 0.0
+Player 3: Share = 0, Effort = 0.0
+Player 4: Share = 0, Effort = 0.0
+Player 5: Share = 0.4751498738591999, Effort = 4.3028332847601245
+Player 6: Share = 0.5253493494374757, Effort = 4.72956354936929
+Player 7: Share = 0, Effort = 0.0
+Player 8: Share = 0, Effort = 0.0
+Player 9: Share = 0, Effort = 0.0
+Player 10: Share = 0, Effort = 0.0
+Solution A_star: 47.92727912328535
+Player 1: Share = 0, Effort = 0.0
+Player 2: Share = 0, Effort = 0.0
+Player 3: Share = 0, Effort = 0.0
+Player 4: Share = 0, Effort = 0.0
+Player 5: Share = 0.4746847045522414, Effort = 4.30243065857847
+Player 6: Share = 0.5249916729706728, Effort = 4.729905057347167
+Player 7: Share = 0, Effort = 0.0
+Player 8: Share = 0, Effort = 0.0
+Player 9: Share = 0, Effort = 0.0
+Player 10: Share = 0, Effort = 0.0
+Solution A_star: 48.598425980773875
+Player 1: Share = 0, Effort = 0.0
+Player 2: Share = 0, Effort = 0.0
+Player 3: Share = 0, Effort = 0.0
+Player 4: Share = 0, Effort = 0.0
+Player 5: Share = 0.4665907486246953, Effort = 4.294229651313881
+Player 6: Share = 0, Effort = 0.0
+Player 7: Share = 0, Effort = 0.0
+Player 8: Share = 0, Effort = 0.0
+Player 9: Share = 0, Effort = 0.0
+Player 10: Share = 0.5339257626941027, Effort = 4.381352822910329
+Solution A_star: 48.63819661320172
+Player 1: Share = 0, Effort = 0.0
+Player 2: Share = 0, Effort = 0.0
+Player 3: Share = 0, Effort = 0.0
+Player 4: Share = 0, Effort = 0.0
+Player 5: Share = 0.4661031646379655, Effort = 4.293663424183676
+Player 6: Share = 0, Effort = 0.0
+Player 7: Share = 0, Effort = 0.0
+Player 8: Share = 0, Effort = 0.0
+Player 9: Share = 0, Effort = 0.0
+Player 10: Share = 0.5335777537811106, Effort = 4.381765964466198
+Solution A_star: 51.37832240483809
+Player 1: Share = 0, Effort = 0.0
+Player 2: Share = 0, Effort = 0.0
+Player 3: Share = 0, Effort = 0.0
+Player 4: Share = 0, Effort = 0.0
+Player 5: Share = 0, Effort = 0.0
+Player 6: Share = 0.49180675326220885, Effort = 4.740477796753524
+Player 7: Share = 0, Effort = 0.0
+Player 8: Share = 0, Effort = 0.0
+Player 9: Share = 0, Effort = 0.0
+Player 10: Share = 0.5088707258925114, Effort = 4.400212331574513
+Solution A_star: 51.420367971826835
+Player 1: Share = 0, Effort = 0.0
+Player 2: Share = 0, Effort = 0.0
+Player 3: Share = 0, Effort = 0.0
+Player 4: Share = 0, Effort = 0.0
+Player 5: Share = 0, Effort = 0.0
+Player 6: Share = 0.4913777109948899, Effort = 4.740340978196139
+Player 7: Share = 0, Effort = 0.0
+Player 8: Share = 0, Effort = 0.0
+Player 9: Share = 0, Effort = 0.0
+Player 10: Share = 0.5084789766168422, Effort = 4.40033199718142
+Solution A_star: 51.46244794690095
+Player 1: Share = 0, Effort = 0.0
+Player 2: Share = 0, Effort = 0.0
+Player 3: Share = 0, Effort = 0.0
+Player 4: Share = 0, Effort = 0.0
+Player 5: Share = 0, Effort = 0.0
+Player 6: Share = 0.4909475983537661, Effort = 4.740196809508866
+Player 7: Share = 0, Effort = 0.0
+Player 8: Share = 0, Effort = 0.0
+Player 9: Share = 0, Effort = 0.0
+Player 10: Share = 0.5080864733432873, Effort = 4.400446473492818
+
+
